@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: staging
+    database: AIR_BNB
+    schema: RAW
+    tables:
+      - name: BOOKINGS
