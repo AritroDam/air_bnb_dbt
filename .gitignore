@@ -1,0 +1,14 @@
+# Virtual Environment
+dbt1/
+venv/
+env/
+.env
+
+# dbt specific
+target/
+dbt_packages/
+logs/
+
+# Windows system files
+Thumbs.db
+desktop.ini
