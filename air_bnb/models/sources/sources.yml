@@ -6,3 +6,5 @@ sources:
     schema: RAW
     tables:
       - name: BOOKINGS
+      - name: HOSTS
+      - name: LISTINGS
